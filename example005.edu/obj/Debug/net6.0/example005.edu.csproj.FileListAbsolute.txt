@@ -1,0 +1,15 @@
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\bin\Debug\net6.0\example005.edu.exe
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\bin\Debug\net6.0\example005.edu.deps.json
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\bin\Debug\net6.0\example005.edu.runtimeconfig.json
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\bin\Debug\net6.0\example005.edu.dll
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\bin\Debug\net6.0\example005.edu.pdb
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.csproj.AssemblyReference.cache
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.AssemblyInfoInputs.cache
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.AssemblyInfo.cs
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.csproj.CoreCompileInputs.cache
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.dll
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\refint\example005.edu.dll
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.pdb
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\example005.edu.genruntimeconfig.cache
+C:\Users\Айдар\Desktop\git\my-project\example002.edu\example005.edu\obj\Debug\net6.0\ref\example005.edu.dll
